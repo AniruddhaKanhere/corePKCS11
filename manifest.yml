@@ -6,7 +6,7 @@ license: "MIT"
 dependencies:
   - name: "pkcs11"
     version: "2-40-errata-1"
-    license: "OASIS-IPR"
+    license: "LicenseRef-OASIS-IPR"
     repository:
       type: "git"
       url: "https://github.com/oasis-tcs/pkcs11.git"
